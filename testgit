@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-12T07:13:28.640Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="BKfsOPy06skmRa48t_vv" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-12T08:27:58.150Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="jacZfExKo3UiYsLTYKFw" version="12.5.1" type="github">
   <diagram id="_jJcO3zmCgBlCBZBKfJN" name="Page-1">
     <mxGraphModel dx="1673" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2300" math="0" shadow="0">
       <root>
@@ -196,11 +196,11 @@
             <mxPoint x="230" y="650" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1bJSy7PrOhiG2oSvi9ss-51" value="记录上一次commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="220" width="120" height="20" as="geometry"/>
+        <mxCell id="1bJSy7PrOhiG2oSvi9ss-51" value="parent项记录上一次commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="220" width="160" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="1bJSy7PrOhiG2oSvi9ss-52" value="记录上一次commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="220" width="120" height="20" as="geometry"/>
+        <mxCell id="1bJSy7PrOhiG2oSvi9ss-52" value="parent项记录上一次commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="220" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1bJSy7PrOhiG2oSvi9ss-53" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
